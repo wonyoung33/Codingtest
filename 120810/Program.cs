@@ -10,6 +10,10 @@
     // 입출력예시 #2
     // num1이10 ,num2가 5이므로 10을 5로 나눈 나머지 0을  return합니다.
 
+    // 풀이 : int(자료형)에 num1,과 num2를 넣어준다.
+    // 그리고 나누는 문자를 %로 return에 표현해준다.
+    // 주의!!! &이아닌 %으로 표현해주어야한다.
+
     public class Solution
     {
         public int solution(int num1, int num2)
