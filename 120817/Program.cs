@@ -1,7 +1,7 @@
 ﻿namespace _120817_배열의_평균값
 {
     // 문제 : 배열의 평균값
-    // 시작날짜 : 202408,08
+    // 시작날짜 : 2024,08,08
     // 문제설명 : 정수 배열 numbers가 매개변수로 주어집니다. 
     // numbers의 원소의 평균값을 return하도록 solution 함수를 완성해주세요.
 
@@ -20,7 +20,8 @@
     // Average를 써서 간단하고 빠르게 풀어보자 중요! 꼭 LINQ를 붙여줘야 Average가 작동함
     // C#의 LINQ에서는 집계 함수를 제공한다. 그 중 Average()메서드는
     // 컬렉션과 같은 집합에서 숫자타입인 값의 평균을 계산하기위해 사용된다. 
-    //
+
+     
     using System;
     using System.Linq;
     public class Solution
